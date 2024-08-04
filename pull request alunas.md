@@ -2,6 +2,10 @@
 
 Informe seu nome e usuário do github, vamos fortalecer a nossa rede! 
 
+
+
+[Gloria Gonzalez Blanco](https://github.com/GloriaBlanco)
+
 [Kamila Santos](https://github.com/kamilahsantos)
 
 [Daniela Farina](https://github.com/AlNULlNDALE)
