@@ -2,7 +2,7 @@
 
 Informe seu nome e usuário do github, vamos fortalecer a nossa rede! 
 
-
+segue meu nome do GitHub
 
 [Gloria Gonzalez Blanco](https://github.com/GloriaBlanco)
 
